@@ -20,7 +20,7 @@
   "Remon-13B": {
     "download": {
       "files": {
-        "model": "remon-13B.ggmlv3.q5_1.bin"
+        "model": "remon-13B.ggmlv3.q4_0.bin"
       },
       "repo": "https://huggingface.co/myeolinmalchi/remon-13B-GGML",
       "commit": "c84dd9331c21331f854e2dfa682af67d00a4f39a",
